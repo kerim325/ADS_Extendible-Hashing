@@ -1,2 +1,2 @@
 # ADS_Extendible-Hashing
-Im Rahmen der Lehrveranstaltung ADS der Universität Wien, wurde die Datenstruktur Extendible Hashing in C++ implementiert.
+As part of the ADS (Algorithms and Data Structures) course at the University of Vienna, the data structure Extendible Hashing was implemented in C++.
